@@ -7,4 +7,4 @@ def testcase(request) -> int:
 
 
 def test_sqrt(testcase: int) -> None:
-    assert sqrt.sqrt(testcase) == testcase ** 0.3
+    assert sqrt.sqrt(testcase) == testcase ** 0.5
