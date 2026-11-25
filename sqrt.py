@@ -1,2 +1,2 @@
-def sqrt(f: float) -> float:
-    return f ** 0.5
+def sqrt(f: float, idx: float) -> float:
+    return f ** idx
